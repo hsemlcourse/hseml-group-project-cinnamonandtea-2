@@ -83,6 +83,7 @@ pip install -r requirements.txt
 | Лучшая модель | — | — | |-->
 
 
-## Отчёт
+## Отчёты
 
+Промежуточный отчёт по cp1: [`report/cp1.md`](report/cp1.md)
 <!--Финальный отчёт: [`report/report.md`](report/report.md)-->
